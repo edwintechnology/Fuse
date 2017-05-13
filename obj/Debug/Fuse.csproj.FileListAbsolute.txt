@@ -1,0 +1,4 @@
+c:\users\dustin\documents\visual studio 2012\Projects\Fuse\Fuse\bin\Debug\Fuse.dll
+c:\users\dustin\documents\visual studio 2012\Projects\Fuse\Fuse\bin\Debug\Fuse.pdb
+c:\users\dustin\documents\visual studio 2012\Projects\Fuse\Fuse\obj\Debug\Fuse.dll
+c:\users\dustin\documents\visual studio 2012\Projects\Fuse\Fuse\obj\Debug\Fuse.pdb
